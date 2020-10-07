@@ -7,5 +7,5 @@
   pass_filenames: false
   verbose: true
   entry: sbt
-  args: [ ' partner-api/test ;partner-api/it:test' ]
+  args: [ 'partner-api/test;partner-api/it:test;' ]
 
